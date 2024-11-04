@@ -9,7 +9,7 @@ you have to run this in Google colab in T4 GPU in order to completely run my cod
 1. **Clone the repository**:
    ```bash
    git clone <[repository-url](https://github.com/hemu77/NLP_Prompting-project_Analysis-of-zero-shot-approach-on-fine-tuned-basemodel-and-Base-model.git)>
-   Follow the commands in fine_tuned_model_evaluation_final.ipynb file ;followed by the base_model_evaluation.ipynb
+2. Follow the commands in fine_tuned_model_evaluation_final.ipynb file ;followed by the base_model_evaluation.ipynb
 
 ## Results
 
